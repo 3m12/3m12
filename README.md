@@ -9,4 +9,4 @@ I'm a passionate React developer based in Istanbul, Turkey. Currently, I'm focus
 - I’m looking to collaborate on open-source projects related to React and web development.
 - I’m looking for help with scaling our current projects and exploring new business opportunities.
 - Ask me about anything related to React and front-end development.
-- Reach me via [email](mailto:mgurbulakk@gmai.com)
+- Reach me via [email](mailto:mgurbulakk@gmail.com)
