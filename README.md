@@ -4,9 +4,6 @@ I'm a React developer based in Istanbul, Turkey. Currently, I'm focusing on codi
 
 ## About Me
 
-- I’m currently working on [piytilab](https://www.piytilab.com/).
-- I’m currently learning more about advanced React development and exploring new technologies.
-- I’m looking to collaborate on open-source projects related to React and web development.
-- I’m looking for help with scaling our current projects and exploring new business opportunities.
-- Ask me about anything related to React and front-end development.
+- I’m currently working at [piytilab](https://www.piytilab.com/).
+- Ask me about anything related to React and web development.
 - Reach me via [email](mailto:mgurbulakk@gmail.com)
